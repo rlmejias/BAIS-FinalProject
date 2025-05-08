@@ -1,8 +1,0 @@
-Column Name	Description	Type
-Player	Player name	String
-Team	NBA team	String
-Points	Total points in 2022–23 season	Integer
-Salary	Player salary in USD	Float
-Minutes	Total minutes played	Integer
-Efficiency_Index	Custom metric combining stats	Float
-Team_Win_Pct	Team's win percentage	Float

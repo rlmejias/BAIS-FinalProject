@@ -1,0 +1,37 @@
+| Column           | Data Type | Description                                            |
+| ---------------- | --------- | ------------------------------------------------------ |
+| Player           | string    | Name of the player                                     |
+| Pos              | string    | Player's position (e.g., SG, PF, C)                    |
+| Age              | int       | Player's age                                           |
+| Tm               | string    | Team abbreviation                                      |
+| G                | int       | Games played                                           |
+| GS               | int       | Games started                                          |
+| MP               | float     | Minutes played                                         |
+| FG               | float     | Field goals made                                       |
+| FGA              | float     | Field goal attempts                                    |
+| FG%              | float     | Field goal percentage                                  |
+| 3P               | float     | 3-point field goals made                               |
+| 3PA              | float     | 3-point attempts                                       |
+| 3P%              | float     | 3-point percentage                                     |
+| 2P               | float     | 2-point field goals                                    |
+| 2PA              | float     | 2-point attempts                                       |
+| 2P%              | float     | 2-point percentage                                     |
+| eFG%             | float     | Effective field goal percentage                        |
+| FT               | float     | Free throws made                                       |
+| FTA              | float     | Free throw attempts                                    |
+| FT%              | float     | Free throw percentage                                  |
+| ORB              | float     | Offensive rebounds                                     |
+| DRB              | float     | Defensive rebounds                                     |
+| TRB              | float     | Total rebounds                                         |
+| AST              | float     | Assists                                                |
+| STL              | float     | Steals                                                 |
+| BLK              | float     | Blocks                                                 |
+| TOV              | float     | Turnovers                                              |
+| PF               | float     | Personal fouls                                         |
+| PTS              | float     | Points scored                                          |
+| Salary           | float     | Player salary in USD                                   |
+| Wins             | float     | Team wins during the season                            |
+| Losses           | float     | Team losses during the season                          |
+| PerformanceIndex | float     | Sum of PTS, TRB, AST, STL, BLK (Overall impact metric) |
+| Efficiency       | float     | PerformanceIndex divided by MP (Per minute impact)     |
+| HighSalary       | int       | 1 if salary is above median, 0 otherwise               |
