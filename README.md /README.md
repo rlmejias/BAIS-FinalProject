@@ -22,7 +22,5 @@
 - `NBA_Analytics_Report.docx`: The final project report with introduction, data analysis, visualizations, model results, and conclusions.
 
 ### Code/
-- `scraping_script.py`: Selenium-based web scraping script to collect player salary data.
-- `data_processing.py`: Data processing functions for cleaning and merging the datasets.
-
+- `ReneandJuanProject.ipynb`: Contains all the webscraping, data cleaning, and analysis
 ---
