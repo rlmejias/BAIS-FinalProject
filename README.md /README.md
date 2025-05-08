@@ -30,11 +30,3 @@
 - `data_processing.py`: Data processing functions for cleaning and merging the datasets.
 
 ---
-
-## Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/username/NBA-Analytics-2022-2023.git
-   cd NBA-Analytics-2022-2023
-
